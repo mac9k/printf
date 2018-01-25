@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1514363565 source:c:\users\sdsw1\documents\c_ex\printf\prtfmt.c
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+
+1514364771 source:c:\users\sdsw1\documents\c_ex\printf\test.c
+	"prtfmt.h"
+
+1514196799 c:\users\sdsw1\documents\c_ex\printf\prtfmt.h
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+
+1516260368 source:c:\users\mac9\documents\programming\c_ex\printf\prtfmt.c
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<unistd.h>
+
+1516259983 source:c:\users\mac9\documents\programming\c_ex\printf\test.c
+	"prtfmt.h"
+
+1515652234 c:\users\mac9\documents\programming\c_ex\printf\prtfmt.h
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+
